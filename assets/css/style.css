@@ -64,11 +64,6 @@ footer h2 {
     font-size: 20px;
 }
 
-/*Makes the 'seo' in Horiseon a light grey color*/
-.seo {
-    color: #d9dcd6;
-}
-
 /*Applies background image + size/position style to hero section*/
 .hero {
     height: 800px;
@@ -148,4 +143,9 @@ footer h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/*Makes the 'seo' in Horiseon a light grey color*/
+#seo {
+    color: #d9dcd6;
 }
