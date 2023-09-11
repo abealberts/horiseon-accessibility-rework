@@ -1,22 +1,27 @@
+/*Universal styles*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Main background color for page content*/
 body {
     background-color: #d9dcd6;
 }
 
+/*Styles link text*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Styles paragraph text*/
 p {
     font-size: 16px;
 }
 
+/*Styles background & type for header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,11 +29,13 @@ header {
     color: #ffffff;
 }
 
+/*Styles 'Horiseon' text*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*Styles navigation in header*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,12 +44,14 @@ nav {
     font-size: 20px;
 }
 
+/*Styles navigation links in header*/
 nav li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Styles footer at bottom of page*/
 footer {
     padding: 30px;
     clear: both;
@@ -50,14 +59,17 @@ footer {
     text-align: center;
 }
 
+/*Styles footer at bottom of page*/
 footer h2 {
     font-size: 20px;
 }
 
+/*Makes the 'seo' in Horiseon a light grey color*/
 .seo {
     color: #d9dcd6;
 }
 
+/*Applies background image + size/position style to hero section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -67,12 +79,14 @@ footer h2 {
     background-position: center;
 }
 
+/*Styles section element containing the services content*/
 .services-container {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Styles services sections*/
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -82,25 +96,30 @@ footer h2 {
     color: #ffffff;
 }
 
+/*Styles images contained within services class*/
 .services img {
     max-height: 200px;
 }
 
+/*Styles h2 elements contained within services class*/
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*Enables content to float left within its container*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Enables content to float right within its container*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Styles section container for benefits*/
 .benefits-container {
     margin-right: 20px;
     padding: 20px;
@@ -112,16 +131,19 @@ footer h2 {
     background-color: #2589bd;
 }
 
+/*Styles sections listing individual benefits*/
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Styles h3 elements within .benefits class*/
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Styles img elements within .benefits class*/
 .benefits img {
     display: block;
     margin: 10px auto;
