@@ -10,7 +10,7 @@ This project is an effort to refactor existing code (html & css) for Horiseon So
 
 ## Usage
 
-[Visit the Horiseon webabb here.](https://abealberts.github.io/horiseon-accessibility-rework/)
+[Visit the Horiseon webapp here.](https://abealberts.github.io/horiseon-accessibility-rework/)
 
 Screenshots:
 
