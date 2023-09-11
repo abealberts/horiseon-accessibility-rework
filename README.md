@@ -14,6 +14,6 @@ This project is an effort to refactor existing code (html & css) for Horiseon So
 
 Screenshots:
 
-![Screenshot of Horiseon webapp: Header, Nav, and Hero](./Develop/assets/images/screenshot-1.jpeg)
+![Screenshot of Horiseon webapp: Header, Nav, and Hero](./assets/images/screenshot-1.jpeg)
 
-![Screenshot of Horiseon webapp: Services, Benefits, and Footer](./Develop/assets/images/screenshot-2.png)
+![Screenshot of Horiseon webapp: Services, Benefits, and Footer](./assets/images/screenshot-2.png)
